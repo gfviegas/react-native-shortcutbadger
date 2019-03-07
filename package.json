@@ -1,6 +1,6 @@
 {
-  "name": "react-native-shortcutbadger",
-  "version": "0.2.0",
+  "name": "gfviegas@react-native-shortcutbadger",
+  "version": "1.0.0",
   "description": "A React Native Moulde of ShortcutBadger that makes your Android app show the count of unread messages as a badgeon your App shortcut!",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "author": "yangqiong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yangqiong/react-native-shortcutbadger/issues"
+    "url": "https://github.com/gfviegas/react-native-shortcutbadger/issues"
   },
-  "homepage": "https://github.com/yangqiong/react-native-shortcutbadger#readme"
+  "homepage": "https://github.com/gfviegas/react-native-shortcutbadger#readme"
 }
